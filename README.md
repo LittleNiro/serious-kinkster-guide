@@ -11,8 +11,11 @@ Social Media
  - [Recon]()
 
 Websites
-- 
+- https://secondskin.co/en/
+- https://linktr.ee/LondonSceneCalendar?lt_utm_source=lt_share_link#285702850
+- https://www.recon.com/
 
 ## Where to find events
  - [Recon](https://www.recon.com/en/Events/Calendar?page=1)
  - []
+
